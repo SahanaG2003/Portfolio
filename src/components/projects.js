@@ -51,8 +51,8 @@ function Projects() {
         slidesPerView={1}
         spaceBetween={20}
         loop={true}
-        autoplay={{ delay: 3000, disableOnInteraction: false }}
-        pagination={{ clickable: true }}
+        autoplay={{ delay: 1500, disableOnInteraction: false }}
+        pagination={{ clickable: false }}
         className="projects-container"
         breakpoints={{
           768: { slidesPerView: 2 },
@@ -88,8 +88,8 @@ function Projects() {
         slidesPerView={1}
         spaceBetween={20}
         loop={true}
-        autoplay={{ delay: 2000, disableOnInteraction: false }}
-        pagination={{ clickable: true }}
+        autoplay={{ delay: 1500, disableOnInteraction: false }}
+        pagination={{ clickable: false }}
         className="gallery-container"
         breakpoints={{
           480: { slidesPerView: 1 },
