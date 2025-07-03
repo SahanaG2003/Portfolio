@@ -1,0 +1,30 @@
+.education {
+  padding: 4rem 2rem;
+  background: linear-gradient(to right, #1f4037, #99f2c8);
+  color: #222;
+  font-family: 'Poppins', sans-serif;
+}
+
+.education-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.education h2 {
+  text-align: center;
+  color: #00416a;
+  margin-bottom: 2rem;
+}
+
+.education ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.education li {
+  background: #ffffffc2;
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
